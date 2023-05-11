@@ -8,8 +8,7 @@ My GitHub page is http://github.com/LiLBean6969.
 
 ### CPSC 120
 
-*Lab 4
-
+* Lab 4
 
    Lab 4 part 2 was my third favorite because I always wanted to code a game and even though it was nothing big it was still a very enjoyable experience. I was able to write a program that allowed 2 players to play a game where player 1 assigned a specific number from 1-10 and player 2 attempted to guess it under 2 attempts. This was an entertaining mini-game and being able to experience and play it with my partner and non-computer geek science friends was a fun experience too.
 
