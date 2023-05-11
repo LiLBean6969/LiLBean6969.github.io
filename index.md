@@ -14,9 +14,11 @@ My GitHub page is http://github.com/LiLBean6969.
 
 
 * Lab 5
+   
    Lab 5 part 1 was my second favorite Lab due to the fact that I'm a big food enjoyer so this project was very relatable. It was quite the experience of being able to see how my favorite thing to do could be assisted by computer program coding. Being able to store different bread recipes was actually something that could be useful for many food fanatics like myself.
 
 
 * Lab 12
+   
    Lab 12 part 1 was my overall favorite Lab because being able to make a rainbow-like image was very interesting and cool. I've always wanted to see the background of graphic design and how it's done so this was a pleasant experience. Being able to create gifs was quite the experience and something that I and my partners really enjoyed creating.
 
